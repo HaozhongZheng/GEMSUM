@@ -1,0 +1,13 @@
+name: Code
+title: Code
+username:
+account: tonyz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8429192
+bundleId: 6895107
+url: https://tonyz.shinyapps.io/Code/
+when: 1677547126.30719
+lastSyncTime: 1677547126.30719
+asMultiple: FALSE
+asStatic: FALSE
