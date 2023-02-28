@@ -1,3 +1,3 @@
 # GEMSUM
 
-<img src="Source/Picture/GEMSUM.jpg" width="500">
+<img src="Code/www/Picture/GEMSUM.jpg" width="500">
