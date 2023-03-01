@@ -1,0 +1,13 @@
+name: Gemsum
+title: Gemsum
+username:
+account: tonyz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8441210
+bundleId: 6900154
+url: https://tonyz.shinyapps.io/Gemsum/
+when: 1677635690.83264
+lastSyncTime: 1677635690.83264
+asMultiple: FALSE
+asStatic: FALSE
