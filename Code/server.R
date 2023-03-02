@@ -18,115 +18,115 @@ server <- function(input, output) {
   
   output$img1 <- renderUI({
     if(input$select == "alloy"){            
-      img(height = 2500, width = 1500, src = "Picture/Alloy Rims.jpg")
+      img(height = 500, width = 300, src = "Picture/Alloy Rims.jpg")
     }
     else if(input$select == "associates"){
-      img(height = 2500, width = 1500, src = "Picture/Associates_01.jpg")
+      img(height = 500, width = 300, src = "Picture/Associates_01.jpg")
     }
     else if(input$select == "bbsets"){
-      img(height = 2500, width = 1500, src = "Picture/B.B.Sets.jpg")
+      img(height = 500, width = 300, src = "Picture/B.B.Sets.jpg")
     }
     else if(input$select == "bar end"){
-      img(height = 2500, width = 1500, src = "Picture/Bar End.jpg")
+      img(height = 500, width = 300, src = "Picture/Bar End.jpg")
     }
     else if(input$select == "basket"){
-      img(height = 2500, width = 1500, src = "Picture/Basket.jpg")
+      img(height = 500, width = 300, src = "Picture/Basket.jpg")
     }
     else if(input$select == "bellhorn"){
-      img(height = 2500, width = 1500, src = "Picture/Bell Air Horn.jpg")
+      img(height = 500, width = 300, src = "Picture/Bell Air Horn.jpg")
     }
     else if(input$select == "bicycle"){
-      img(height = 2500, width = 1500, src = "Picture/Bicycle_01.jpg")
+      img(height = 500, width = 300, src = "Picture/Bicycle_01.jpg")
     }
     else if(input$select == "brakelever"){
-      img(height = 2500, width = 1500, src = "Picture/Brake Lever.jpg")
+      img(height = 500, width = 300, src = "Picture/Brake Lever.jpg")
     }
     else if(input$select == "brakeparts"){
-      img(height = 2500, width = 1500, src = "Picture/Brake Parts.jpg")
+      img(height = 500, width = 300, src = "Picture/Brake Parts.jpg")
     }
     else if(input$select == "brakeset"){
-      img(height = 2500, width = 1500, src = "Picture/Brake Set.jpg")
+      img(height = 500, width = 300, src = "Picture/Brake Set.jpg")
     }
     else if(input$select == "chain"){
-      img(height = 2500, width = 1500, src = "Picture/Chain Spokes Steel Ball.jpg")
+      img(height = 500, width = 300, src = "Picture/Chain Spokes Steel Ball.jpg")
     }
     else if(input$select == "chainwheel"){
-      img(height = 2500, width = 1500, src = "Picture/Chain Wheel.jpg")
+      img(height = 500, width = 300, src = "Picture/Chain Wheel.jpg")
     }
     else if(input$select == "derailleur"){
-      img(height = 2500, width = 1500, src = "Picture/Derailleur.jpg")
+      img(height = 500, width = 300, src = "Picture/Derailleur.jpg")
     }
     else if(input$select == "evatire"){
-      img(height = 2500, width = 1500, src = "Picture/Eva Tire.jpg")
+      img(height = 500, width = 300, src = "Picture/Eva Tire.jpg")
     }
     else if(input$select == "footpump"){
-      img(height = 2500, width = 1500, src = "Picture/Foot Pump_01.jpg")
+      img(height = 500, width = 300, src = "Picture/Foot Pump_01.jpg")
     }
     else if(input$select == "fork"){
-      img(height = 2500, width = 1500, src = "Picture/Fork.jpg")
+      img(height = 500, width = 300, src = "Picture/Fork.jpg")
     }
     else if(input$select == "freewheel"){
-      img(height = 2500, width = 1500, src = "Picture/Free Wheel.jpg")
+      img(height = 500, width = 300, src = "Picture/Free Wheel.jpg")
     }
     else if(input$select == "frspindles"){
-      img(height = 2500, width = 1500, src = "Picture/Spindles.jpg")
+      img(height = 500, width = 300, src = "Picture/Spindles.jpg")
     }
     else if(input$select == "grips"){
-      img(height = 2500, width = 1500, src = "Picture/Grips_01.jpg")
+      img(height = 500, width = 300, src = "Picture/Grips_01.jpg")
     }
     else if(input$select == "handlebar"){
-      img(height = 2500, width = 1500, src = "Picture/Handle Bar Stem_01.jpg")
+      img(height = 500, width = 300, src = "Picture/Handle Bar Stem_01.jpg")
     }
     else if(input$select == "headparts"){
-      img(height = 2500, width = 1500, src = "Picture/Head Parts Tools.jpg")
+      img(height = 500, width = 300, src = "Picture/Head Parts Tools.jpg")
     }
     else if(input$select == "horn"){
-      img(height = 2500, width = 1500, src = "Picture/Horn_01.jpg")
+      img(height = 500, width = 300, src = "Picture/Horn_01.jpg")
     }
     else if(input$select == "hubs"){
-      img(height = 2500, width = 1500, src = "Picture/Hubs.jpg")
+      img(height = 500, width = 300, src = "Picture/Hubs.jpg")
     }
     else if(input$select == "lightset"){
-      img(height = 2500, width = 1500, src = "Picture/Light Set_01.jpg")
+      img(height = 500, width = 300, src = "Picture/Light Set_01.jpg")
     }
     else if(input$select == "lock"){
-      img(height = 2500, width = 1500, src = "Picture/Lock_01.jpg")
+      img(height = 500, width = 300, src = "Picture/Lock_01.jpg")
     }
     else if(input$select == "luggage"){
-      img(height = 2500, width = 1500, src = "Picture/Luggage Stand_01.jpg")
+      img(height = 500, width = 300, src = "Picture/Luggage Stand_01.jpg")
     }
     else if(input$select == "mudguard"){
-      img(height = 2500, width = 1500, src = "Picture/Mudguard_01.jpg")
+      img(height = 500, width = 300, src = "Picture/Mudguard_01.jpg")
     }
     else if(input$select == "pedal"){
-      img(height = 2500, width = 1500, src = "Picture/Pedal_01.jpg")
+      img(height = 500, width = 300, src = "Picture/Pedal_01.jpg")
     }
     else if(input$select == "reflector"){
-      img(height = 2500, width = 1500, src = "Picture/Reflector.jpg")
+      img(height = 500, width = 300, src = "Picture/Reflector.jpg")
     }
     else if(input$select == "repair"){
-      img(height = 2500, width = 1500, src = "Picture/Repair Kit.jpg")
+      img(height = 500, width = 300, src = "Picture/Repair Kit.jpg")
     }
     else if(input$select == "saddle"){
-      img(height = 2500, width = 1500, src = "Picture/Saddle_01.jpg")
+      img(height = 500, width = 300, src = "Picture/Saddle_01.jpg")
     }
     else if(input$select == "shifting"){
-      img(height = 2500, width = 1500, src = "Picture/Shifting Levers.jpg")
+      img(height = 500, width = 300, src = "Picture/Shifting Levers.jpg")
     }
     else if(input$select == "steelrims"){
-      img(height = 2500, width = 1500, src = "Picture/Steel Rims.jpg")
+      img(height = 500, width = 300, src = "Picture/Steel Rims.jpg")
     }
     else if(input$select == "steppeg"){
-      img(height = 2500, width = 1500, src = "Picture/Step Peg.jpg")
+      img(height = 500, width = 300, src = "Picture/Step Peg.jpg")
     }
     else if(input$select == "tire"){
-      img(height = 2500, width = 1500, src = "Picture/Tire_01.jpg")
+      img(height = 500, width = 300, src = "Picture/Tire_01.jpg")
     }
     else if(input$select == "trainwheel"){
-      img(height = 2500, width = 1500, src = "Picture/Training Wheel.jpg")
+      img(height = 500, width = 300, src = "Picture/Training Wheel.jpg")
     }
     else if(input$select == "waterbottle"){
-      img(height = 2500, width = 1500, src = "Picture/Water Bottle.jpg")
+      img(height = 500, width = 300, src = "Picture/Water Bottle.jpg")
     }
     
   })
