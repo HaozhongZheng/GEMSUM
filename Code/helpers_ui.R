@@ -4,6 +4,9 @@
 if (!require("shiny")) {
   install.packages("shiny")
 }
+if (!require("shinyMobile")) {
+  install.packages("shinyMobile")
+}
 if (!require("rsconnect")) {
   install.packages("rsconnect")
 }

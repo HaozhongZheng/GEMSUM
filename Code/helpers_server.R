@@ -4,6 +4,10 @@ if (!require("shiny")) {
   install.packages("shiny")
   library(shiny)
 }
+if (!require("shinyMobile")) {
+  install.packages("shinyMobile")
+  library(shinyMobile)
+}
 if (!require("rgdal")) {
   install.packages("rgdal")
   library(rgdal)
