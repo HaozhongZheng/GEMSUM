@@ -5,9 +5,9 @@ account: tonyz
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 8441210
-bundleId: 6909097
+bundleId: 6927946
 url: https://gemsum.shinyapps.io/Gemsum/
-when: 1677798201.38512
-lastSyncTime: 1677798201.38512
+when: 1678228096.43464
+lastSyncTime: 1678228096.43464
 asMultiple: FALSE
 asStatic: FALSE
